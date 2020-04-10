@@ -1,0 +1,25 @@
+body{
+  font-family: "GD Sage Medium";
+
+}
+
+.subhead{
+  color: blue;
+}
+
+.img-position{
+  position: relative;
+  top: 0px;
+  transition: top ease 1s;
+}
+
+.img-position:hover {
+  top: -18px;
+}
+
+.row2head {
+    color: blue;
+}
+.colorred {
+    color: red;
+}
