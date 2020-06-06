@@ -26,75 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6612575d-d210-4560-a342-ab6902a81665" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/(public)/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/.idea/Studymates.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/css/style-dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/humans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/img/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/img/group open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/img/undraw_Group_chat_unwm.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/js/react.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/js/vendor/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/js/vendor/modernizr-3.8.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/scss/Custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/scss/Custom.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/scss/Custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/scss/_bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/(public)/signin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.firebase/hosting.KHB1YmxpYyk.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studymates" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Studymates.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Studymates.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/TOC.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/css.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/extend.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/html.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/misc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/usage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/undraw_Group_chat_unwm.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-3.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-3.8.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebase/hosting.KHB1YmxpYyk.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.firebase/hosting.KHB1YmxpYyk.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jsx.switch.disabled" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Downloads/CoolAdmin-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../thefacefinder" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -172,6 +105,7 @@
       <workItem from="1589770686170" duration="8747000" />
       <workItem from="1590047123899" duration="13218000" />
       <workItem from="1591319553943" duration="5738000" />
+      <workItem from="1591410617673" duration="2192000" />
     </task>
     <servers />
   </component>
@@ -234,10 +168,11 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="417" y="253" key="EditFileWatcherDialog/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1591305314894" />
-    <state x="578" y="254" key="FileChooserDialogImpl" timestamp="1590052230569">
-      <screen x="0" y="0" width="1500" height="960" />
+    <state x="3740" y="275" key="FileChooserDialogImpl" timestamp="1591416246364">
+      <screen x="3000" y="0" width="1920" height="1040" />
     </state>
     <state x="578" y="254" key="FileChooserDialogImpl/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1590052230569" />
+    <state x="3740" y="275" key="FileChooserDialogImpl/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1591416246364" />
     <state x="3740" y="982" key="FileChooserDialogImpl/0.0.1500.960/3000.707.1920.1040@3000.707.1920.1040" timestamp="1586480477297" />
     <state width="1478" height="203" key="GridCell.Tab.0.bottom" timestamp="1590046470645">
       <screen x="0" y="0" width="1500" height="960" />
