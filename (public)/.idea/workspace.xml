@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:gh-pages" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6612575d-d210-4560-a342-ab6902a81665" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/(public)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/group open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studymates" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aIfgTkAD3I2xpZ6hmoE0hiJPac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\satvi\OneDrive - UW\Desktop\Projects\Studymates\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Studymates/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6612575d-d210-4560-a342-ab6902a81665" name="Default Changelist" comment="" />
+      <created>1586428140142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586428140142</updated>
+      <workItem from="1586428145661" duration="3833000" />
+      <workItem from="1586433642617" duration="4886000" />
+      <workItem from="1586476244101" duration="86000" />
+      <workItem from="1586476352643" duration="273000" />
+      <workItem from="1586476649346" duration="5609000" />
+      <workItem from="1586486852849" duration="949000" />
+      <workItem from="1589078403260" duration="70000" />
+      <workItem from="1589078519148" duration="3143000" />
+      <workItem from="1589770198949" duration="454000" />
+      <workItem from="1589770686170" duration="4859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="gh-pages" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="324" key="#Notifications" timestamp="1589770441830">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="620" y="324" key="#Notifications/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1589770441830" />
+    <state x="240" y="335" width="638" height="625" key="#Vim_Emulation" timestamp="1589770499786">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="240" y="335" width="638" height="625" key="#Vim_Emulation/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1589770499786" />
+    <state x="3414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586428765563">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586428765563" />
+    <state x="431" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589078408951">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="431" y="216" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1589078408951" />
+    <state x="3740" y="982" key="FileChooserDialogImpl" timestamp="1586480477297">
+      <screen x="3000" y="707" width="1920" height="1040" />
+    </state>
+    <state x="3740" y="982" key="FileChooserDialogImpl/0.0.1500.960/3000.707.1920.1040@3000.707.1920.1040" timestamp="1586480477297" />
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520036" />
+    <state width="1899" height="347" key="GridCell.Tab.0.bottom/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.0.center" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.0.center/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520035" />
+    <state width="1899" height="347" key="GridCell.Tab.0.center/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.0.left" timestamp="1586476220359">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.0.left/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520035" />
+    <state width="1899" height="347" key="GridCell.Tab.0.left/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220359" />
+    <state width="1899" height="347" key="GridCell.Tab.0.right" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.0.right/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520035" />
+    <state width="1899" height="347" key="GridCell.Tab.0.right/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.bottom/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520036" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.center/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520036" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.left/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520036" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.right/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520036" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.2.bottom" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.2.bottom/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520036" />
+    <state width="1899" height="347" key="GridCell.Tab.2.bottom/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.2.center" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.2.center/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520036" />
+    <state width="1899" height="347" key="GridCell.Tab.2.center/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.2.left" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.2.left/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520036" />
+    <state width="1899" height="347" key="GridCell.Tab.2.left/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.2.right" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.2.right/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520036" />
+    <state width="1899" height="347" key="GridCell.Tab.2.right/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.3.bottom" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.3.bottom/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520037" />
+    <state width="1899" height="347" key="GridCell.Tab.3.bottom/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.3.center" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.3.center/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520037" />
+    <state width="1899" height="347" key="GridCell.Tab.3.center/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.3.left" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.3.left/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520037" />
+    <state width="1899" height="347" key="GridCell.Tab.3.left/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state width="1899" height="347" key="GridCell.Tab.3.right" timestamp="1586476220360">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.3.right/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1586471520037" />
+    <state width="1899" height="347" key="GridCell.Tab.3.right/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476220360" />
+    <state x="360" y="152" key="SettingsEditor" timestamp="1589770655573">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="360" y="152" key="SettingsEditor/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1589770655573" />
+    <state x="3461" y="165" key="SettingsEditor/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586476881757" />
+    <state x="3461" y="872" key="SettingsEditor/0.0.1500.960/3000.707.1920.1040@3000.707.1920.1040" timestamp="1586486823962" />
+    <state x="3551" y="957" key="Vcs.Push.Dialog.v2" timestamp="1586487172846">
+      <screen x="3000" y="707" width="1920" height="1040" />
+    </state>
+    <state x="3551" y="957" key="Vcs.Push.Dialog.v2/0.0.1500.960/3000.707.1920.1040@3000.707.1920.1040" timestamp="1586487172846" />
+    <state x="3616" y="240" key="run.anything.popup" timestamp="1586429048010">
+      <screen x="3000" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3616" y="240" key="run.anything.popup/0.0.1500.960/3000.0.1920.1040@3000.0.1920.1040" timestamp="1586429048010" />
+    <state x="414" y="207" key="search.everywhere.popup" timestamp="1589770382822">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="414" y="207" key="search.everywhere.popup/0.0.1500.960/3000.0.1920.1040@0.0.1500.960" timestamp="1589770382822" />
+  </component>
+</project>
