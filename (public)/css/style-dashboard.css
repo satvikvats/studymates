@@ -1,0 +1,152 @@
+body{
+    font-family: "GD Sage Medium";
+
+}
+.mainarea {
+    width: 68%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background: #ffffff;
+    overflow-y: auto;
+}
+.sidearea {
+    background: #ffffff;
+    padding-left: 70%;
+}
+
+.subhead{
+    color: blue;
+}
+
+.img-position{
+    position: relative;
+    top: 0px;
+    right: 10%;
+    transition: top ease 1s;
+}
+
+.img-position:hover {
+    top: -18px;
+
+}
+
+.row2head {
+    color: blue;
+}
+.colorred {
+    color: red;
+}
+
+
+/*signin page */
+
+.tile
+{
+    display:inline-block;
+    width:100%;
+    background-color:#fff;
+    box-shadow:0px 0px 10px 3px rgba(0,0,0,0.1);
+    position:relative;
+    overflow:hidden;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a:focus,a:hover
+{
+    text-decoration: none;
+}
+a
+{
+    color: #333;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 0px;
+}
+.form-control
+{
+    border-radius: 30px;
+    height: 40px;
+}
+.btn
+{
+    border-radius: 40px;
+    padding: 0px;
+    line-height: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.btn-info {
+    color: #fff;
+    background-color: #000000;
+    border-color: #17a2b8;
+}
+
+.show
+{
+    position: relative!important;
+    width: 100%;
+    top: 30%;
+    left: 0;
+    right: 0px;
+    transform: rotate(-0deg);
+    transition: all .5s ease-out;
+}
+.soc
+{
+    text-align: center;
+    margin: 20px 0px;
+}
+.soc a
+{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    border:1px solid #ddd;
+    border-radius: 50%;
+    margin: 5px;
+    transition: all .5s;
+}
+.soc a.fa-facebook
+{
+    border-color: #4E71A8;
+    color: #4E71A8;
+}
+.soc a.fa-twitter
+{
+    border-color: #1CB7EB;
+    color: #1CB7EB;
+}
+.soc a.fa-linkedin
+{
+    border-color: #1686B0;
+    color: #1686B0;
+}
+.soc a:hover
+{
+    transform: rotate(360deg);
+}
+
+/*CARD*/
+
+.card-super {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+    padding-bottom: 0;
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.1);
+}
+
+.card1{
+    background-color: #dca516;
+}

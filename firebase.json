@@ -1,0 +1,20 @@
+{
+  "database": {
+    "rules": "studymates"
+  },
+  "hosting": {
+    "target": "studymates",
+    "public": "(public)",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
