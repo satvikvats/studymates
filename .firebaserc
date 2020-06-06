@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "study-mates-cc9e8"
+  },
+  "targets": {
+    "study-mates-cc9e8": {
+      "hosting": {
+        "studymates": [
+          "studymates"
+        ]
+      }
+    }
+  }
+}
