@@ -1,8 +1,7 @@
-// function visitPage(){
-//     window.location='./signin.html';
-// }
+function visitPage(){
+    window.location='./signin.html';
+}
 
-ReactDOM.render(
-<h1>"Hello, world!"</h1>,
-document.getElementById('email')
-);
+function visitPageToDash(){
+    window.location='./dashboard.html';
+}
