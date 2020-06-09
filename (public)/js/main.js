@@ -5,3 +5,5 @@ function visitPage(){
 function visitPageToDash(){
     window.location='./dashboard.html';
 }
+
+

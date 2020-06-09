@@ -8,16 +8,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--FONT icon -->
     <script src="https://kit.fontawesome.com/0d025d1689.js" crossorigin="anonymous"></script>
-
     <!--  Bootstrap 4 -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!--    Jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
+<!--  CSS FILES-->
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style-dashboard.css">
 
-</head>
+<!--    ALL MY CUSTOM JAVASCRIPT FILES ARE AT THE END OF THE BODY TAG-->
 
+</head>
 <body>
+<!--SIDE *1* - THE MAIN LEFT SIDE-->
 <div class="mainarea" style="background-color: #f5f5fc">
     <div class="container">
         <div class="row" style="margin-top: 4%"></div>
@@ -25,7 +30,7 @@
         <div class="row">
 
             <div class="col-md-8 text-left" style="margin-bottom: 4%;">
-                <h1 class=""> Howdy, Satvik!</h1>
+                <h1 class=""> Howdy!</h1>
                 <p>Welcome to <span class="subhead">StudyMates</span>! You are enrolled in three classes for
                     Spring 2020 :)
                 </p>
@@ -47,28 +52,45 @@
                 <h3>INFO 339</h3>
             </div>
         </div>
+
+        <!--SIDE *1.2* - SIDE ONE PART TWO-->
+        <div class="container" style="padding:50px 80px;">
+            <h1>Know your instructor better! </h1>
+            <div id="header"></div>
+            <form role="form">
+                <div class="form-group">
+                    <input type="input" class="form-control input-lg" id="txt-search"
+                           placeholder="Search your amazing teachers; btw they all are great!">
+                </div>
+            </form>
+            <div id="filter-records"></div>
+            <div id="footer"></div>
+        </div>
     </div>
 </div>
+
+<!--SIDE 2 - THE SIDELINE AREA - SIDE TWO-->
 <aside class="sidearea" style="margin: 0 15px 0 0;">
     <div class="row" style="">
-            <h4 class="">Tasks</h4>
-            <p>Welcome to <span class="subhead">StudyMates</span>! You are enrolled in three classes for
-                Spring 2020 :)
-            </p>
+        <h4 class="" style="margin-top: 5%">Tasks</h4>
+        <p>Welcome to <span class="subhead">StudyMates</span>! You are enrolled in three classes for
+            Spring 2020 :)
+        </p>
+        <div id="app">
+        </div>
     </div>
     <hr style="height:2px;border-width:0;color:gray;background-color:gray">
     <div class="row" style="">
         <h4 style="" class="">Feed</h4>
-        <p>Welcome to <span class="subhead">StudyMates</span>! You are enrolled in three classes for
-            Spring 2020 :)
-        </p>
+        <p>Check Your feed and activities here! The portal allows you to get your updates from all the courses you have taken! </p>
+<!--        <header>-->
+<!--            <h1>JSON and AJAX</h1>-->
+<!--            <button id="btn">Fetch Info for 3 New Animals</button>-->
+<!--        </header>-->
+
+<!--        <div id="animal-info"></div>-->
     </div>
-
-
-
 </aside>
-
-
 
 <!--    <div class="row justify-content-center" style="margin-top: 2%">-->
 <!--        <div class="col-10">-->
@@ -78,22 +100,10 @@
 <!--                All you have to do is send us the screenshot of your class schedule and we'll take care of the rest :)  </h5>-->
 <!--        </div>-->
 
-
-
-
 <!--SCRIPTS-->
-<script src="js/vendor/modernizr-3.8.0.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
-<script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
-
-
-<!--Bootstrap script-->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
+<script src="js/dashboard.js"></script>
+<script src="js/bookSearch.js"></script>
 
 <!--  Ignore this for now-->
 <!--  &lt;!&ndash; Google Analytics: change UA-XXXXX-Y to be your site's ID. &ndash;&gt;-->
