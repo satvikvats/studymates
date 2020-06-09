@@ -27,7 +27,7 @@ $(document).ready(function(){
         $.each(data, function(key, val){
             if ((val.desc.search(regex) != -1) || (val.name.search(regex) != -1)) {
                 output += '<div class="col-md-6 well">';
-                output += '<div class="col-md-3"><img style="width: 160px" src="'+val.profile_image+'" alt="'+ val.employee_name +'" /></div>';
+                output += '<div class="col-md-3"><img style="width: 160px" src="'+val.profile_image+'" alt="'+ val.name +'" /></div>';
                 output += '<div class="col-md-7">';
                 output += '<h5>' + val.name + '</h5>';
                 output += '<p>' + val.desc + '</p>'
